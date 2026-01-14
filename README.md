@@ -61,3 +61,5 @@ I’m a computer engineering student exploring React and frontend development.
 [GitHub Profile](https://github.com/SanikaGadge84)
 
 > ⚠️ Note: This project is for learning purposes only and is **not a real trading platform**.
+>
+> <img width="1861" height="901" alt="Image" src="https://github.com/user-attachments/assets/d86c65fe-62c0-4b6a-886b-25f6430adfb0" />
